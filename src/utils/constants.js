@@ -33,8 +33,8 @@ export const categories = [
   { name: 'Crypto', icon: <DeveloperModeIcon />, },
 ];
 
-export const demoThumbnailUrl = 'https://iili.io/4TCNmx.webp';
-export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
+export const demoThumbnailUrl = 'https://iili.io/4T8g7p.md.jpg';
+export const demoChannelUrl = '/channel/UCNg4LkeUaksXAFwiuHjswbg';
 export const demoVideoUrl = '/video/1DgUzddD-BA';
 export const demoChannelTitle = 'Better Call Saul';
 export const demoVideoTitle = 'How to Iron a Shirt';
